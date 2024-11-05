@@ -6,3 +6,4 @@ this line is added for testing rebase
 add a new line locally
 adding something small
 making a change to practice rebase
+life is a change 
