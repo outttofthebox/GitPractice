@@ -1,3 +1,3 @@
 # GitPractice
-adding a new line
-Hello World how are you ?
+adding a brand new line
+Hello World how are you my friends ?
